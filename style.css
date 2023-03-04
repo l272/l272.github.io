@@ -1,12 +1,12 @@
 body {
   font-family: 'Arial', sans-serif;
-  background-color: #FFCCE5;
+  background-color: #DAEAF1;
   color: #333;
   margin: 0;
 }
 
 header {
-  background-color: #FF6699;
+  background-color: #C6DCE4;
   padding: 20px;
   text-align: center;
 }
@@ -46,7 +46,7 @@ section img {
 }
 
 footer {
-  background-color: #FF6699;
+  background-color: #DAEAF1;
   padding: 20px;
   text-align: center;
   color: #FFF;
